@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: binayakredhat/spring-boot-mongo
+      - image: spuneetkr/myspringimg
         name: springboot
         ports:
         - name: springboot
